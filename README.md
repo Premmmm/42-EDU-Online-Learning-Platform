@@ -8,23 +8,17 @@
 
 **NOTE**: You need to connect your firebase database for your app to work, scroll down to see how I have structured my database.
 
-## App UI
-
-### Featured screen 2
-### Course Screen 
-### Video Screen
+**App UI**
 
 <p float="left">
-  ### Featured screen 1
   <a href="url"><img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/featuredscreen1.jpg" align="left" height="530" width="280"></a>
-  ### Featured screen 1
   <a href="url"><img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/featuredscreen2.jpg" align="left" height="530" width="280" ></a>
   <a href="url"><img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/courseenroll.jpg" align="left" height="530" width="280" ></a>
-  
 <a href="url"><img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/videoscreen.jpg" align="left" height="530" width="280" ></a>
 </p>
 
-## Database Structure
+
+**Database Structure**
 
 ![alt text](https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/database%20structure/42Edu%20database%201.png?raw=true)
 

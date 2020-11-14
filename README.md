@@ -11,8 +11,7 @@ NOTE: You need to connect your database for your app to work, scroll down to see
 ## App UI
 
 ### Featured screen 1
-
-<a href="url"><img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/featuredscreen1.jpg" align="left" height="530" width="280" ></a>
+<a href="url"><img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/featuredscreen1.jpg" align="left" height="530" width="280"></a>
 ### Featured screen 2
 <a href="url"><img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/featuredscreen2.jpg" align="left" height="530" width="280" ></a>
 ### Course Screen 

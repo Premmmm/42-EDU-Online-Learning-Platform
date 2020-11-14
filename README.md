@@ -6,9 +6,9 @@
 
 42 EDU is made with a sole purpose for educating people and to gather all the information into a single platform.
 
-NOTE: You need to connect your database for your app to work.
+NOTE: You need to connect your database for your app to work, scroll down to see how I have structured my database.
 
-Some images of the app are as follows.
+## App UI
 
 ![alt text](https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/featuredscreen1.jpg?raw=true)
 
@@ -17,3 +17,5 @@ Some images of the app are as follows.
 ![alt text](https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/courseenroll.jpg?raw=true)
 
 ![alt text](https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/videoscreen.jpg?raw=true)
+
+## Database Structure

@@ -19,7 +19,7 @@
 </p>
 
 
-
+## Database Structure
 
 ![alt text](https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/database%20structure/42Edu%20database%201.png?raw=true)
 

@@ -10,20 +10,28 @@ NOTE: You need to connect your database for your app to work, scroll down to see
 
 ## App UI
 
-### Featured screen
+### Featured screen 1
 ![alt text](https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/featuredscreen1.jpg?raw=true)
 
+### Featured screen 2
 ![alt text](https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/featuredscreen2.jpg?raw=true)
 
+### Course Screen 
 ![alt text](https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/courseenroll.jpg?raw=true)
 
+### Video Screen
 ![alt text](https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/videoscreen.jpg?raw=true)
+
 
 ## Database Structure
 
 ![alt text](https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/database%20structure/42Edu%20database%201.png?raw=true)
+
 ![alt text](https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/database%20structure/42Edu%20database%202.png?raw=true)
+
 ![alt text](https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/database%20structure/42Edu%20database%203.png?raw=true)
+
 ![alt text](https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/database%20structure/42Edu%20database%204.png?raw=true)
+
 ![alt text](https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/database%20structure/42Edu%20database%205.png?raw=true)
 

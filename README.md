@@ -14,7 +14,7 @@
   <a href="url"><img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/featuredscreen1.jpg" align="left" height="530" width="280"></a>
   <a href="url"><img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/featuredscreen2.jpg" align="left" height="530" width="280" ></a>
   <a href="url"><img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/courseenroll.jpg" align="left" height="530" width="280" ></a>
-<a href="url"><img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/videoscreen.jpg" align="left" height="530" width="280"style="position: relative top:3px"></a>
+<a href="url"><img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/videoscreen.jpg" align="left" height="530" width="280" style="position: relative top:3px"></a>
 </p>
 
 **Database Structure**

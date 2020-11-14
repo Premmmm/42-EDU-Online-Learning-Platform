@@ -14,11 +14,12 @@
   <img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/featuredscreen1.jpg" align="left" height="530" width="280" />
   <img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/featuredscreen2.jpg" align="left" height="530" width="280" />
   <img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/courseenroll.jpg" align="left" height="530" width="280" />
+  </img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/videoscreen.jpg" align="left" height="530" width="280">
+
 </p>
 
-<a href="url"><img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/videoscreen.jpg" align="left" height="530" width="280" style="position: relative top:3px"></a>
 
-### Database Structure<br />
+
 
 ![alt text](https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/database%20structure/42Edu%20database%201.png?raw=true)
 

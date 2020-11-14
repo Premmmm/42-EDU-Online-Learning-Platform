@@ -12,7 +12,7 @@ NOTE: You need to connect your database for your app to work, scroll down to see
 
 ### Featured screen 1
 
-<a href="url"><img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/featuredscreen1.jpg" align="left" height="500" width="300" ></a>
+<a href="url"><img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/featuredscreen1.jpg" align="left" height="520" width="280" ></a>
 
 ![screenshot](https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/featuredscreen1.jpg)
 

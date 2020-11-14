@@ -17,8 +17,6 @@
 <a href="url"><img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/videoscreen.jpg" align="left" height="530" width="280" ></a>
 </p>
 
-
-<br />
 **Database Structure**
 
 ![alt text](https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/database%20structure/42Edu%20database%201.png?raw=true)

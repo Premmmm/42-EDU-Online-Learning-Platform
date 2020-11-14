@@ -10,6 +10,7 @@ NOTE: You need to connect your database for your app to work, scroll down to see
 
 ## App UI
 
+
 ![alt text](https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/featuredscreen1.jpg?raw=true)
 
 ![alt text](https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/featuredscreen2.jpg?raw=true)

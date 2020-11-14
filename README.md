@@ -14,16 +14,14 @@ NOTE: You need to connect your database for your app to work, scroll down to see
 
 <a href="url"><img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/featuredscreen1.jpg" align="left" height="520" width="280" ></a>
 
-![screenshot](https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/featuredscreen1.jpg)
-
 ### Featured screen 2
-![alt text](https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/featuredscreen2.jpg?raw=true)
+<a href="url"><img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/featuredscreen2.jpg" align="left" height="520" width="280" ></a>
 
 ### Course Screen 
-![alt text](https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/courseenroll.jpg?raw=true)
+<a href="url"><img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/courseenroll.jpg" align="left" height="520" width="280" ></a>
 
 ### Video Screen
-![alt text](https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/videoscreen.jpg?raw=true)
+<a href="url"><img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/cideoscreen.jpg" align="left" height="520" width="280" ></a>
 
 
 ## Database Structure

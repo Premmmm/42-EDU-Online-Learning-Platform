@@ -16,7 +16,7 @@
   <img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/courseenroll.jpg" align="left" height="535" width="270" />
   <img src="https://github.com/Premmmm/42-EDU-Online-Learning-Platform/blob/master/assets/screenshots/videoscreen.jpg" align="center" height="535" width="270">
   <br />
-</p>
+</p><br><br>
 
 
 ## Database Structure

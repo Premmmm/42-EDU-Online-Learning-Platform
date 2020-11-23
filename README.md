@@ -1,12 +1,33 @@
 # 42 EDU
-
-42 EDU is an online learning platform with courses, docs and youtube tutorials in a single mobile app.
-
-## More info
-
+## About
 42 EDU is made with a sole purpose for educating people and to gather all the information into a single platform.
 
-**NOTE**: You need to connect your firebase database for your app to work, scroll down to see how I have structured my database.
+## Team 42
+Team 42 have been active for around a year, been developing various projects, but the common this is we want to make a social change, we want to make a revolution with the 
+knowledge and time we have, everything for a better future.
+
+### Members
+**S. PREM RAJ**  (**TEAM LEAD**) ( MOBILE DEVELOPER ) \
+**S. LOKESH** ( MEMBER ) ( WEB DEVELOPER ) 
+
+## Tech Stack 
+
+### Mobile 
+1) Flutter & Dart 
+2) Firebase Database 
+
+### Web
+1) Node.js
+2) HTML 
+3) CSS 
+4) JS 
+
+
+### Applications Used
+1) VS Code
+
+
+**IMPORTANT**: \ You need to connect your firebase database for your app to work, get your google-services.json file and paste it inside android/app/. Scroll down to see how I have structured my database.
 
 ## App UI
 

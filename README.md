@@ -1,6 +1,6 @@
 # 42 EDU
 ## About
-42 EDU is made with a sole purpose for educating people and to gather all the information into a single platform.
+We Team 42 bring you our product 42-EDU. 42 EDU is an online learning platform where students can enroll in courses, view official docs, and view their favourite youtube courses in a single mobile app. It's made with a sole purpose for educating people and to gather all the information into a single platform.
 
 ## Team 42
 Team 42 have been active for around a year, been developing various projects, but the common this is we want to make a social change, we want to make a revolution with the 

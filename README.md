@@ -14,7 +14,6 @@ knowledge and time we have, everything for a better future.
 
 ### Mobile 
 1) Flutter & Dart 
-2) Firebase Database 
 
 ### Web
 1) Node.js
@@ -22,6 +21,9 @@ knowledge and time we have, everything for a better future.
 3) CSS 
 4) JS 
 
+### Database
+1) Firebase Real Time Database
+2) Coud Firestore
 
 ### Applications Used
 1) VS Code

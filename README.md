@@ -29,7 +29,7 @@ knowledge and time we have, everything for a better future.
 1) VS Code
 
 
-**IMPORTANT**: \ You need to connect your firebase database for your app to work, get your google-services.json file and paste it inside android/app/. Scroll down to see how I have structured my database.
+**IMPORTANT**: / You need to connect your firebase database for your app to work, get your google-services.json file and paste it inside android/app/. Scroll down to see how I have structured my database.
 
 ## App UI
 
